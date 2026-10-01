@@ -1,0 +1,12 @@
+# Lesson 9 Submission Checklist
+- [x] BEM naming implemented
+- [x] Centralized design tokens in `:root`
+- [x] CSS variables used with `var()`
+- [x] Flat/low-specificity selectors
+- [x] Specificity reviewed
+- [x] ITCSS-inspired stylesheet organization
+- [x] Responsive implementation
+- [x] Accessibility/focus-visible review
+- [x] Validation report included
+- [ ] Public GitHub repository link
+- [ ] Loom/YouTube demo link

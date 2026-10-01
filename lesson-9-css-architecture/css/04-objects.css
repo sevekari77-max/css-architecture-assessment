@@ -1,0 +1,1 @@
+.o-container{width:min(calc(100% - (var(--space-6)*2)),var(--container-max));margin-inline:auto}.o-grid{display:grid;gap:var(--space-6)}
